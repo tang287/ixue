@@ -24,5 +24,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tang287/ixue/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### 在一起
+![image](http://pic.baiqi008.com/uploads/sccsqewax.jpeg)
 
 春来夏往，秋收冬藏，我们来日方长。

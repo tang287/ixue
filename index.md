@@ -17,11 +17,9 @@
 我最真的那部分。
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 我爱你
 
-### 
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tang287/ixue/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+生命里能遇见你是一份超级大的幸运，在这里给你真诚的表白！ [我爱你](https://www.zhihu.com/).
 
 ### 在一起
 ![image](https://github.com/tang287/ixue/blob/master/73998c6f80906370e2a3d3bf9e779d64.jpg)

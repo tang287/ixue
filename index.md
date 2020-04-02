@@ -2,7 +2,7 @@
 
 你可以点击 [感谢小薛](https://www.baidu.com/) 来查看最新的恋爱进展.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+如果你没能找到满意的结果，点击 [小薛加油](https://cn.bing.com/) 可以获得进一步的搜索.
 
 ### Markdown
 

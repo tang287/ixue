@@ -22,6 +22,6 @@
 生命里能遇见你是一份超级大的幸运，在这里给你真诚的表白！ [我爱你](https://www.zhihu.com/).
 
 ### 在一起
-![image](https://github.com/tang287/ixue/blob/master/73998c6f80906370e2a3d3bf9e779d64.jpg)
+![image](http://images.xuejuzi.cn/1804/1_180410113839_1.jpg)
 
 春来夏往，秋收冬藏，我们来日方长。
